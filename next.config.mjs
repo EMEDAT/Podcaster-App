@@ -17,6 +17,10 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'img.clerk.com'
       },
+      {
+        protocol: 'https',
+        hostname: 'fabulous-chameleon-180.convex.cloud'
+      },
     ]
   }
 };
